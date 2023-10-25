@@ -12,3 +12,6 @@ AWS Lambda, AWS API Gateway, AWS Amplify, Amazon DynamoDB, and AWS Cognito
 ![Screen Shot 2023-10-25 at 12 49 34 PM](https://github.com/doujones83/AWS-Reactjs/assets/59512235/43b68045-b3b1-47a1-8f27-5dab8e2b59e5)
 
 AWS API Gateway: ![Screen Shot 2023-10-25 at 5 03 55 PM](https://github.com/doujones83/AWS-Reactjs/assets/59512235/391c227b-ca23-4d5f-8efc-a12e99ead1c9)
+
+I gave permissions to authenticate HTTPS connections to my AWS CodeCommit repositories.
+![Screen Shot 2023-10-25 at 6 26 16 PM](https://github.com/doujones83/AWS-Reactjs/assets/59512235/31afe110-8d2d-41d2-93cc-b196856f7504)
